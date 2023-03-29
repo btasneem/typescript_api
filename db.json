@@ -1,8 +1,30 @@
-
-{
-  "id": 1,
-  "title": "Iphone 16",
-  "Description": "Apple IPhone",
-  "Branc": "Apple",
-  "category": "Smart Phone"
-}
+[
+  {
+    "id": 1,
+    "title": "Iphone 16",
+    "Description": "Apple IPhone",
+    "Brand": "Apple",
+    "category": "Smart Phone"
+  },
+  {
+    "id": 2,
+    "title": "Samsung",
+    "Description": "Samsung",
+    "Brand": "Samsung",
+    "category": "Smart Phone"
+  },
+  {
+    "id": 3,
+    "title": "Oppo",
+    "Description": "Oppo",
+    "Brand": "Oppo",
+    "category": "Smart Phone"
+  },
+  {
+    "id": 4,
+    "title": "Redme",
+    "Description": "Redme",
+    "Brand": "Samsung",
+    "category": "Smart Phone"
+  }
+]
