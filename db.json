@@ -1,5 +1,4 @@
-{
- "mobileDetails":[
+"mobileDetails":[
  {
     "id": 1,
     "title": "Iphone 16",
@@ -27,6 +26,5 @@
     "Description": "Redme",
     "Brand": "Samsung",
     "category": "Smart Phone"
-  }
+  },
 ]
-}
